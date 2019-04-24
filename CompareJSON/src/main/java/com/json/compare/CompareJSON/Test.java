@@ -17,5 +17,6 @@ public class Test {
 		}
 		
 		System.out.println(r);
+		System.out.println(r);
 	}
 }
